@@ -60,3 +60,5 @@ shutdown e shutdown -r
 <pre>
 more 
 </pre>
+
+#add comandos 
